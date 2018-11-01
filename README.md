@@ -11,6 +11,6 @@
 
 ![](./CPU/hello.jpg)
 
-**使用方法：**见[USAGE](./使用说明.md)
+**使用方法** ：见[USAGE](./使用说明.md)
 
 转载或使用请注明：https://github.com/pprp
