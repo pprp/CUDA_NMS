@@ -1,0 +1,2 @@
+g++ nms.cpp -o nms `pkg-config --cflags --libs opencv`
+
