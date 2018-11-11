@@ -3,7 +3,6 @@ author:pprp
 dec: texture<DataType,Type,ReadMode) texRef;
 	- DataType：制定纹理存储起获取时返回的数据类型，DataType限制为基本的整形和
 	  单精度浮点行，或者向量类型，所以这里的结构体是不可以使用的。
-
 */
 
 #include <stdio.h>
